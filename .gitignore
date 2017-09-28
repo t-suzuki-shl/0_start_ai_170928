@@ -1,0 +1,7 @@
+src/05_tensorflow/MNIST_data
+.DS_Store
+.ipynb_checkpoints
+doc/Rakefile
+doc/toc
+doc/dest
+doc/tmp
